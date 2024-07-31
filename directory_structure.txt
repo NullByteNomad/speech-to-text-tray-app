@@ -1,0 +1,8 @@
+your_project_directory/
+│
+├── speech_recognition_thread.py
+├── keyword_detection_thread.py
+├── tray_app.py
+├── config.py
+├── main.py
+└── README.md
